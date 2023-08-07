@@ -2,8 +2,7 @@
 
 ## Links
 
-- [GitHub](https://github.com/brunosimon/my-room-in-3d)
-- [Live](https://my-room-in-3d.vercel.app)
+- [GitHub](https://github.com/dhanush2468/my-room-in-3d)
 
 ## Setup
 
